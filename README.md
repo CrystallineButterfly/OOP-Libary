@@ -18,7 +18,6 @@
 
 If you wish to run the project locally, please do the following:
 
-
 ## Show your support
 
 Give a ⭐️ if you like this project!
